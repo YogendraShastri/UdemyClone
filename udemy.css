@@ -1,0 +1,25 @@
+.big-banner{
+    background:url(background.jpg);
+    background-size: cover;
+}
+
+
+.fresh-content{
+    background: linear-gradient(-45deg,#ec5252,#6e1a52); 
+}
+
+.big-banner1
+{
+    background:url(button4.jpg);
+    background-size: cover;
+}
+.big-banner2
+{
+    background:url(button2.jpg);
+    background-size: cover;
+}
+.big-banner3
+{
+    background:url(button3.jpg);
+    background-size: cover;
+}
